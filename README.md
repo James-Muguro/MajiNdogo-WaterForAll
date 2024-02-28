@@ -28,6 +28,24 @@ We welcome and appreciate contributions and collaborations to enhance the effect
 
 Through this data-driven exploration, we have provided valuable insights into the water access challenges faced by communities in Maji Ndogo. By advocating for improved policies, we aim to positively impact the lives of individuals in the region, ensuring equitable access to clean and reliable water sources.
 
+### Power BI Dashboard
+
+Below are the snapshots of the Power BI dashboard for the Impact Progress Reports of 2023, 2024, and 2027, each providing unique insights into Maji Ndogo's transformative initiatives.
+
+#### 2023 Impact Progress Report
+
 ![2023 Dashboard](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/dashboard/2023.dashboard.jpg)
+
+**Description:** Check out the 2023 Impact Progress Report’s visualization. It provides information on project progress, total costs, and basic water access percentages, among other key metrics.
+
+#### 2024 Impact Progress Report
+
 ![2024 Dashboard](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/dashboard/2024.dashboard.jpg)
+
+**Description:** The 2024 Impact Progress Report, providing a comprehensive overview of completed projects, budget allocations, and the ongoing effort to enhance water access in different provinces.
+
+#### 2027 Impact Progress Report
+
 ![2027 Dashboard](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/dashboard/2027.dashboard.jpg)
+
+**Description:** Look ahead with this 2027 Impact Progress Report. Monitor the overall impact, budget use, and the changing scenario of water access as Maji Ndogo progresses.
