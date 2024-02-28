@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is committed to addressing the challenges related to water access in Maji Ndogo, a region that includes both rural and urban areas. We employ a data-driven approach to investigate the availability, quality, and distribution of water in the region. Our primary goal is to identify existing disparities and advocate for improved water access and quality across all communities. Check out the visual to get a quick overview of what this project is all about:
+This project is committed to addressing the challenges related to water access in Maji Ndogo, a region that includes both rural and urban areas. We employ a data-driven approach to investigate the availability, quality, and distribution of water in the region. Our primary goal is to identify existing disparities and advocate for improved water access and quality across all communities. Check out the visual below to get a quick overview of what this project is all about:
 
 ![Overview](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/dashboard/Overview.jpg)
 
