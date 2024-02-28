@@ -4,6 +4,8 @@
 
 This project is committed to addressing the challenges related to water access in Maji Ndogo, a region that includes both rural and urban areas. We employ a data-driven approach to investigate the availability, quality, and distribution of water in the region. Our primary goal is to identify existing disparities and advocate for improved water access and quality across all communities.
 
+![Overview](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/dashboard/Overview.jpg)
+
 ## Methodology
 
 We utilize Power BI as our main analytical tool. This powerful platform enables efficient data cleaning and analysis. Our aim is to leverage the capabilities of Power BI to create clear and compelling visualizations that effectively illustrate the patterns and trends in water access.
@@ -26,7 +28,6 @@ We welcome and appreciate contributions and collaborations to enhance the effect
 
 Through this data-driven exploration, we have provided valuable insights into the water access challenges faced by communities in Maji Ndogo. By advocating for improved policies, we aim to positively impact the lives of individuals in the region, ensuring equitable access to clean and reliable water sources.
 
-![Overview](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/dashboard/Overview.jpg)
 ![2023 Dashboard](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/dashboard/2023.dashboard.jpg)
 ![2024 Dashboard](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/dashboard/2024.dashboard.jpg)
 ![2027 Dashboard](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/dashboard/2027.dashboard.jpg)
