@@ -1,0 +1,24 @@
+# Ignore TOPOJSON files
+*.topojson
+
+# Ignore PNG file
+MD_map.png
+
+# Ignore JSON files
+MD_Provinces.json
+
+# Ignore Excel files
+Md_queue_related_crime.csv
+Md_summary.csv
+Md_water_services_data.xlsx
+Md_water_services_data (1).xlsx
+Md_water_services_data (2).xlsx
+Md_water_services_data (3).xlsx
+Md_water_services_data (4).xlsx
+Md_water_services_data (5).xlsx
+
+# Ignore Zip file
+Buttons.zip
+
+# Ignore dashboard
+dashboard/
