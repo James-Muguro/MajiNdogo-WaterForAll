@@ -4,7 +4,7 @@
 
 This project is committed to addressing the challenges related to water access in Maji Ndogo, a region that includes both rural and urban areas. We employ a data-driven approach to investigate the availability, quality, and distribution of water in the region. Our primary goal is to identify existing disparities and advocate for improved water access and quality across all communities. Check out the visual below to get a quick overview of what this project is all about:
 
-![Overview](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/dashboard/Overview.jpg)
+![Overview](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/img/Overview.jpg)
 
 ## Methodology
 
@@ -34,18 +34,18 @@ Below are the snapshots of the Power BI dashboard for the Impact Progress Report
 
 #### 2023 Impact Progress Report
 
-![2023 Dashboard](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/dashboard/2023.dashboard.jpg)
+![2023 Dashboard](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/img/2023.dashboard.jpg)
 
 **Description:** Check out the 2023 Impact Progress Report’s visualization. It provides information on project progress, total costs, and basic water access percentages, among other key metrics.
 
 #### 2024 Impact Progress Report
 
-![2024 Dashboard](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/dashboard/2024.dashboard.jpg)
+![2024 Dashboard](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/img/2024.dashboard.jpg)
 
 **Description:** The 2024 Impact Progress Report, providing a comprehensive overview of completed projects, budget allocations, and the ongoing effort to enhance water access in different provinces.
 
 #### 2027 Impact Progress Report
 
-![2027 Dashboard](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/dashboard/2027.dashboard.jpg)
+![2027 Dashboard](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/img/2027.dashboard.jpg)
 
 **Description:** Look ahead with this 2027 Impact Progress Report. Monitor the overall impact, budget use, and the changing scenario of water access as Maji Ndogo progresses.
