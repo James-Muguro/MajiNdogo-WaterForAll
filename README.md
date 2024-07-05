@@ -2,50 +2,50 @@
 
 ## Project Overview
 
-This project is committed to addressing the challenges related to water access in Maji Ndogo, a region that includes both rural and urban areas. We employ a data-driven approach to investigate the availability, quality, and distribution of water in the region. Our primary goal is to identify existing disparities and advocate for improved water access and quality across all communities. Check out the visual below to get a quick overview of what this project is all about:
+This project addresses water access challenges in Maji Ndogo, a region encompassing both rural and urban areas. We use a data-driven approach to investigate water availability, quality, and distribution. Our goal is to identify disparities and advocate for improved water access and quality across all communities. Check out the visual below for a quick overview:
 
-![Overview](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/img/Overview.jpg)
+[View the Project Overview](https://app.powerbi.com/view?r=eyJrIjoiMzk1YzQzYTItZDVlYi00YWY5LWEzZmQtMzNkZmYxZjQwNDk5IiwidCI6IjY4ZTJhMzEwLTM0YjAtNDk3MC04NzFjLWRiZjlkODNmZWYxMyJ9&pageName=ReportSectioncdf5b789f3810aef153d)
 
 ## Methodology
 
-We utilize Power BI as our main analytical tool. This powerful platform enables efficient data cleaning and analysis. Our aim is to leverage the capabilities of Power BI to create clear and compelling visualizations that effectively illustrate the patterns and trends in water access.
+We use Power BI as our primary analytical tool, enabling efficient data cleaning and analysis. Our goal is to leverage Power BI’s capabilities to create clear, compelling visualizations that illustrate water access patterns and trends effectively.
 
 ## Key Findings
 
-Upon completion of the project, we discovered significant disparities in water access between rural and urban areas. Our analysis revealed instances of limited accessibility and compromised water quality in certain regions, highlighting the challenges faced by the Maji Ndogo community.
+Our analysis revealed significant disparities in water access between rural and urban areas, highlighting limited accessibility and compromised water quality in certain regions. These findings underscore the challenges faced by the Maji Ndogo community.
 
 ## Project Goals
 
 1. **Identify Areas of Concern:** Determine regions with limited water accessibility or compromised water quality.
-2. **Inform Decision-Making:** Provide stakeholders with valuable insights to make informed decisions regarding water infrastructure and resource allocation.
-3. **Advocate for Change:** Raise awareness about disparities in water access and advocate for measures to improve the situation, especially in areas facing challenges.
+2. **Inform Decision-Making:** Provide stakeholders with insights to make informed decisions on water infrastructure and resource allocation.
+3. **Advocate for Change:** Raise awareness about water access disparities and advocate for improvements, especially in challenged areas.
 
 ## Contributing
 
-We welcome and appreciate contributions and collaborations to enhance the effectiveness of this assessment. If you have suggestions, identified issues, or wish to contribute to our ongoing efforts, please feel free to submit a pull request or contact me directly.
+We welcome contributions and collaborations to enhance this assessment. If you have suggestions, identified issues, or wish to contribute, please submit a pull request or contact me directly.
 
 ## Conclusion
 
-Through this data-driven exploration, we have provided valuable insights into the water access challenges faced by communities in Maji Ndogo. By advocating for improved policies, we aim to positively impact the lives of individuals in the region, ensuring equitable access to clean and reliable water sources.
+Through this data-driven exploration, we provide insights into the water access challenges in Maji Ndogo. By advocating for improved policies, we aim to positively impact the lives of individuals in the region, ensuring equitable access to clean and reliable water sources.
 
 ### Power BI Dashboard
 
-Below are the snapshots of the Power BI dashboard for the Impact Progress Reports of 2023, 2024, and 2027, each providing unique insights into Maji Ndogo's transformative initiatives.
+Below are snapshots of the Power BI dashboard for the Impact Progress Reports of 2023, 2024, and 2027, each offering unique insights into Maji Ndogo's initiatives.
 
 #### 2023 Impact Progress Report
 
-![2023 Dashboard](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/img/2023.dashboard.jpg)
+[View the 2023 Impact Progress Report](https://app.powerbi.com/view?r=eyJrIjoiOWQ0OGU3N2MtMWE4ZS00MTNmLWE1MTctOGVkZjE3YmYxYTY0IiwidCI6IjY4ZTJhMzEwLTM0YjAtNDk3MC04NzFjLWRiZjlkODNmZWYxMyJ9&pageName=ReportSection1162451ed321baa9e2ef)
 
-**Description:** Check out the 2023 Impact Progress Report’s visualization. It provides information on project progress, total costs, and basic water access percentages, among other key metrics.
+**Description:** This report provides insights on project progress, total costs, and basic water access percentages for 2023.
 
 #### 2024 Impact Progress Report
 
-![2024 Dashboard](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/img/2024.dashboard.jpg)
+[View the 2024 Impact Progress Report](https://app.powerbi.com/view?r=eyJrIjoiN2E3MDM0YzAtMjBkZC00ODk3LWE2ZGItMTYxNDQ5ZDI1NjlhIiwidCI6IjY4ZTJhMzEwLTM0YjAtNDk3MC04NzFjLWRiZjlkODNmZWYxMyJ9&pageName=ReportSection1162451ed321baa9e2ef)
 
-**Description:** The 2024 Impact Progress Report, providing a comprehensive overview of completed projects, budget allocations, and the ongoing effort to enhance water access in different provinces.
+**Description:** This report offers a comprehensive overview of completed projects, budget allocations, and ongoing efforts to enhance water access in various regions.
 
 #### 2027 Impact Progress Report
 
-![2027 Dashboard](https://raw.githubusercontent.com/James-Muguro/MajiNdogo-WaterForAll/main/img/2027.dashboard.jpg)
+[View the 2027 Impact Progress Report](https://app.powerbi.com/view?r=eyJrIjoiMGQwM2UxN2YtMzg0ZS00MTU4LWFiYTctOWVkODJmYzQyNzgxIiwidCI6IjY4ZTJhMzEwLTM0YjAtNDk3MC04NzFjLWRiZjlkODNmZWYxMyJ9&pageName=ReportSection1162451ed321baa9e2ef)
 
-**Description:** Look ahead with this 2027 Impact Progress Report. Monitor the overall impact, budget use, and the changing scenario of water access as Maji Ndogo progresses.
+**Description:** This report provides a forward-looking view, monitoring the overall impact, budget use, and changes in water access as Maji Ndogo progresses.
