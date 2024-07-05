@@ -23,3 +23,6 @@ Buttons.zip
 # Ignore dashboard
 dashboard/
 dashboard
+
+# Ignore .pbix files
+*.pbix
